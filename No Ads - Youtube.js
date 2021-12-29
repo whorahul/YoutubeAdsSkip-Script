@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         No ADS - YouTube
+// @name         No Ads - YouTube
 // @author       Rahul Balamwar (github.com/whorahul)
 // @version      1.0
 // @description  - Skips all youtube ads - | - undetectable - | - skips ads instantly -
