@@ -40,7 +40,7 @@ setInterval(function(){
                 if(document.getElementsByClassName("ytp-ad-text ytp-ad-preview-text")[0]!==undefined){
                     vid.playbackRate=16;
                     console.log("Incrementally skipped unskippable ad!")
-                }
+              }
             }
             else{
                 vid.playbackRate=1;
